@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Segment","A segment."]],"struct":[["Contour","A contour."],["File","A file."],["Font","A font."],["Glyph","A glyph."],["Offset","An offset."]],"trait":[["Case","A collection of glyphs."]],"type":[["Error","An error."],["Number","A number."],["Result","A result."]]});
